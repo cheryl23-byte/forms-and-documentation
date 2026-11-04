@@ -16,21 +16,28 @@ The project integrates a custom employment application form built in Jotform and
 
 ## Project Features
 
-- Online Employment Application Form
-- Candidate Information Collection
-- Employment History Tracking
-- Education Information Collection
-- Resume Upload Capability
-- Mobile-Friendly User Experience
-- Website Integration
+- Online application form
+- Resume upload
+- AI OCR autofill
+- Mobile-friendly design
 
 ## Visual Design
 
 Custom website banners and promotional graphics were designed using Canva to support website branding and user engagement.
 
-## Demo Video
+## Project Demo
 
-A demonstration video is included in this repository showing how users navigate the website and access the Employment Application Form.
+A demonstration video of the Employment Application System is included in this repository.
+
+### Features Demonstrated
+
+- Jotform Application Workflow
+- AI Resume Parsing (OCR)
+- Resume Upload Process
+- Applicant Intake System
+- Healthcare Recruitment Workflow
+
+📹 Video File: Video Project.mp4
 
 ## Skills Demonstrated
 
