@@ -23,7 +23,7 @@ The project integrates a custom employment application form built in Jotform and
 
 ## Visual Design
 
-Custom website banners and promotional graphics were designed using Canva to support website branding and user engagement.
+Basic Canva design was used to create simple visual assets for the project.
 
 ## Project Demo
 
@@ -47,7 +47,7 @@ A demonstration video of the Employment Application System is included in this r
 - Recruitment Support
 - Administrative Support
 - Data Collection
-- Canva Graphic Design
+- Basic Canva Design
 - User Experience Design
 
 ## Tools Used
